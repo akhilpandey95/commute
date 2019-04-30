@@ -1,0 +1,18 @@
+_id,building,day,didicode,distancefromhome,in,modeoftransport,out,reason,rhr,screentime,weather,wind
+ObjectId(5c626cf21ab9e21eb72b4950),Student Recreation Center,02-03-2019,no,1.2,19:43,walk,21:09,"running, sauna",101,00:11,38,9
+ObjectId(5c626ee41ab9e21eb72b4951),Founders Memorial Library,02-04-2019,no,1.7,13:11,walk + bus,13:51,"lunch, trying out einstein bagels",71,00:24,42,15
+ObjectId(5c626fd51ab9e21eb72b4952),Psy-Math Building,02-04-2019,yes,1.8,14:03,walk,15:33,"PM 254 - Data lab, research",66,01:10,40,17
+ObjectId(5c62706c1ab9e21eb72b4953),Psy-Math Building,02-04-2019,no,1.8,16:56,walk,18:24,"CSCI 627, lecture",68,00:03,33,12
+ObjectId(5c6271311ab9e21eb72b4954),Student Recreation Center,02-04-2019,no,1.2,20:20,walk,22:16,"rowing, sauna",112,00:10,29,21
+ObjectId(5c627b8b1ab9e21eb72b495d),Music Building,02-05-2019,no,0.4,11:00,walk,11:30,Violin Class information,70,00:03,29,12
+ObjectId(5c6272c61ab9e21eb72b4955),Dusable,02-05-2019,yes,1.6,12:27,bus,13:56,"lunch, mexican",71,00:49,31,13
+ObjectId(5c6274871ab9e21eb72b4957),Psy-Math Building,02-05-2019,yes,1.8,14:12,walk,02:44,"CSCI-642, Research, Thesis work",82,10:38,32,1
+ObjectId(5c6276191ab9e21eb72b4958),Gabel,02-06-2019,no,1.6,12:30,bus,13:30,Meeting with Professor,70,00:20,31,1
+ObjectId(5c6278b61ab9e21eb72b4959),Anderson Hall,02-06-2019,no,1.8,16:01,bus + walk,16:30,Checking the swimming pool,82,00:04,32,0
+ObjectId(5c6279501ab9e21eb72b495a),Psy-Math Building,02-06-2019,yes,1.8,17:00,walk,18:40,"CSCI-627, lecture",75,00:37,32,3
+ObjectId(5c6279a41ab9e21eb72b495b),Student Recreation Center,02-06-2019,no,1.2,20:10,walk,22:31,"Running, sauna",109,00:03,32,5
+ObjectId(5c627aab1ab9e21eb72b495c),NIU Health Services,02-07-2019,no,1.7,14:00,bus,14:30,"Health checkup, immunization",91,00:00,32,20
+ObjectId(5c627cfb1ab9e21eb72b495e),Adams Hall,02-07-2019,no,1.6,14:37,walk,14:50,"Thesis enrollment, grad school",89,00:00,32,20
+ObjectId(5c627ddb1ab9e21eb72b495f),Swen Parson Hall,02-07-2019,no,1.7,15:00,walk,15:11,Query about tuition fee,81,00:00,31,22
+ObjectId(5c627ed11ab9e21eb72b4960),NIU Health Services,02-08-2019,no,1.7,21:00,walk,21:33,Health checkup,93,00:00,4,24
+ObjectId(5c627f591ab9e21eb72b4961),Psy-Math Building,02-08-2019,no,1.8,15:20,walk,17:49,Data Lab weekly meeting,96,01:27,10,19
