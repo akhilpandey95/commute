@@ -1,0 +1,6 @@
+## Project report - Phase-1 | project00
+
+Completing Phase-1 of `Project00`  helped me learn a multitude of concepts from the domain of data visualisation. Firstly, I learnt a lot about plotting geo spatial points, plotting paths on maps and playing with shape files. Secondly, the task of translating prototypes into the final visualisation was challenging because the plots that I choose had to be tweaked for my specific purpose and the intricacies that went behind achieving this helped me learn more about the tools and libraries that are used for executing tasks of this sort.  The prototyping was fun because it helped me draw plots and visualisations that are not available traditionally. It therefore influenced my data collection because the prototypes required certain additional information to be collected in order for them to be translated into computer visualisations.  On the other hand, since the prototypes that I sketched were a little unorthodox I ended up digitally converting the sketches using paint applications. Finally, if I had to do this project over again I might collect more GPS data or more meta data for that would be beneficial for correlating other data points for maximum quality insight.
+
+## Author
+[Akhil Pandey](https://github.com/akhilpandey95)
